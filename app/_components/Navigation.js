@@ -68,7 +68,7 @@ export default function Navigation({ locale }) {
         {/* Desktop Navigation */}
         <nav className="hidden md:flex  md:items-center gap-4 lg:gap-10">
           {[
-            { href: "/", label: t("home") },
+            { href: `/${locale}`, label: t("home") },
             { href: `/${locale}/about`, label: t("about_us") },
             // {
             //   href: "#",
