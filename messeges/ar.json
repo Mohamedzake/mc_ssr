@@ -1,0 +1,31 @@
+{
+  "home": {
+    "start_now": "ابدأ الآن",
+    "arabic": "العربية",
+    "english": "الإنجليزية",
+    "contact_us": "تواصل معنا",
+    "articles": "المقالات",
+    "packages": "الباقات",
+    "solutions": "الحلول",
+    "about_us": "من نحن",
+    "home": "الصفحة الرئيسية",
+    "main_title": "حل متكامل لإدارة مبيعاتك",
+    "main_subtitle": "بكفاءة، سلاسة، منهجية.",
+    "description": "نظام ماي كاش صُمم لتحسين إدارة المدفوعات والمبيعات وتسهيل عملياتها وفقاً لمعايير احترافية وخبرة عميقة.",
+    "learn_more": "اعرف المزيد",
+    "get_trial": "احصل على نسختك التجريبية",
+    "pos_solutions": "حلول نقاط البيع",
+    "payment_solutions": "حلول الدفع",
+    "sales_solutions": "حلول المبيعات"
+  },
+  "greeting": "مرحبا",
+  "welcome": "مرحبًا بك في تطبيقنا",
+  "aboutTitle": "من نحن",
+  "aboutDescription": "تعرف على المزيد عن شركتنا.",
+  "contactTitle": "اتصل بنا",
+  "contactDescription": "تواصل معنا.",
+  "HomePage": {
+    "title": "عنوان",
+    "about": "عن الموضوع"
+  }
+}

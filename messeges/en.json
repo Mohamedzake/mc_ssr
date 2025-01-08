@@ -1,0 +1,31 @@
+{
+  "home": {
+    "start_now": "Start Now",
+    "arabic": "Arabic",
+    "english": "English",
+    "contact_us": "Contact Us",
+    "articles": "Articles",
+    "packages": "Packages",
+    "solutions": "Solutions",
+    "about_us": "About Us",
+    "home": "home",
+    "main_title": "An all-in-one Solution for managing your sales Efficiently, seamlessly, Systematically.",
+    "main_subtitle": "Efficiently, Smoothly, Methodically.",
+    "description": "My Cash system was designed to optimize sales and payments management, streamlining these processes with professional standards and expertise.",
+    "learn_more": "Learn more",
+    "get_trial": "Start your free trial",
+    "pos_solutions": "POS Solutions",
+    "payment_solutions": "Payments Solutions",
+    "sales_solutions": "Sales Solutions"
+  },
+  "greeting": "Hello",
+  "welcome": "Welcome to our app",
+  "aboutTitle": "About Us",
+  "aboutDescription": "Learn more about our company.",
+  "contactTitle": "Contact Us",
+  "contactDescription": "Get in touch with us.",
+  "HomePage": {
+    "title": "title",
+    "about": "about"
+  }
+}
