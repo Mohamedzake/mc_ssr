@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { useTranslations } from "next-intl";
 // import { Link } from "@/i18n/routing";
 import React, { useEffect, useState } from "react";
-import im from "@/public/auth-logo.svg";
+import im from "../../public/auth-logo.svg";
 import Image from "next/image";
 
 // import { usePathname } from "next/navigation";
